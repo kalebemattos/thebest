@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/meu-site-turismo/', // << ADICIONE ESTA LINHA
+  base: '/thebest/', // << CORRETO PARA O SEU REPO
 
   server: {
     host: "::",
